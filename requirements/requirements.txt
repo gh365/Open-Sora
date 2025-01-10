@@ -10,7 +10,7 @@ av>=12.0.0 # for video loading
 numpy<2.0.0
 
 # [gradio]
-gradio>=4.26.0
+gradio>=4.25.0
 spaces>=0.28.3
 
 # [notebook]
