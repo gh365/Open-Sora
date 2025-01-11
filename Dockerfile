@@ -1,7 +1,7 @@
 FROM hpcaitech/pytorch-cuda:2.1.0-12.1.0
 
 # metainformation
-LABEL org.opencontainers.image.source = "https://github.com/hpcaitech/Open-Sora"
+LABEL org.opencontainers.image.source = "https://github.com/gh365/Open-Sora"
 LABEL org.opencontainers.image.licenses = "Apache License 2.0"
 LABEL org.opencontainers.image.base.name = "docker.io/library/hpcaitech/pytorch-cuda:2.1.0-12.1.0"
 
